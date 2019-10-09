@@ -1,4 +1,6 @@
-# Project4
+# Shopping cart angular
+
+https://piyalidas10.github.io/shoppingcart/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
